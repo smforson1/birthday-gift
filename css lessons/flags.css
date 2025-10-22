@@ -1,0 +1,15 @@
+a {
+    text-align: center;
+    display: block;
+    background-color: #e5383b;
+    margin: 5px;
+    padding: 25px 0;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: rgb(136, 3, 3);
+}
