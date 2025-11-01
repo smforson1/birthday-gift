@@ -1,0 +1,95 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+
+.image{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%
+}
+
+.hero{
+    background-image: url("images/See\ the\ cut-off\ grades\ for\ the\ KNUST\ 2024_2025\ Undergraduate\ Admissions.jpeg");
+    background-size: cover;
+    height: 230px;
+    color: white;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.visit{
+    background-color: #457b9d;
+    width: 200px;
+    border-radius: 5px;
+    padding: 4px;
+    margin-bottom: 6px;
+}
+
+.enjoy{
+    background-color: #1d3557;
+    width: 400px ;
+    border-radius: 5px;
+    padding: 4px;
+    margin-top: 0;
+}
+
+#activites{
+    background-color: #f1faee;
+    margin-top: -20px;
+    height: 250px;
+    
+}
+
+
+.content{
+    display: flex;
+}
+
+p{
+    font-size: small;
+    width: 14
+    0px;
+}
+
+h4{
+    font-size: medium;
+}
+
+
+
+.library, .pool, .lab{
+    width: 300px;
+}
+
+
+.special{
+    width: 100px;
+    height: 150px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.ai{
+    background-color: #88b8d5;
+    width: 305px;
+    height: 170px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    border-bottom: 5px solid #1d3557;
+    border-radius: 5px;
+}
+
+.text{
+    margin-top: 20px;
+    width: 150px;
+    font-size: smaller;
+}
