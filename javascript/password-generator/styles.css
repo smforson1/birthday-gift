@@ -43,9 +43,16 @@ body{
     flex-wrap: wrap;
 }
 
-.controls label{
+.length-container{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.length-container label{
     color: #d8f3dcff;
     font-weight: bold;
+    white-space: nowrap;
 }
 
 .controls input[type="number"]{
