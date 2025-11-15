@@ -28,7 +28,7 @@ function displayPasswords() {
     
     // Validate length
     if (length < 4) length = 4;
-    if (length > 15) length = 15;
+    if (length > 20) length = 20;
     
     password1.textContent = generatePassword(length, includeSymbols);
     password2.textContent = generatePassword(length, includeSymbols);
